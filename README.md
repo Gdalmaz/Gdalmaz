@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gökhan</h1>
+
 <h3 align="center">Pamukkale Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim</h3>
 
 - 💬 Ask me about **React,Js,HTML,CSS**
