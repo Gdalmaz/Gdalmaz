@@ -1,19 +1,45 @@
+# 👋 Merhaba, ben Gökhan Dalmaz
 
-<h3 align="center">Pamukkale Üniversitesi Bilgisayar Mühendisliği Öğrencisiyim</h3>
+Ben bir **Yazılım Geliştiriciyim** ve özellikle web tabanlı uygulamalar, veri analizi ve yapay zeka destekli sistemler üzerine çalışıyorum. 🧠💻
 
-- 💬 Ask me about **React,Js,HTML,CSS**
+## 🚀 Hakkımda Kısaca
 
-- 📫 How to reach me **gokhandalmaz@hotmail.com**
+- 🎓 Pamukkale Üniversitesi'nde Lisans eğitimimi tamamladım.
+- 💼 Şu anda [projenin/şirketin adı] üzerinde çalışıyorum.
+- 🌱 Şu anda `Node.js`, `PostgreSQL`, `Kuika` ve `Yapay Zeka` alanlarında kendimi geliştiriyorum.
+- 📫 Bana ulaşmak istersen: [email@email.com](mailto:email@email.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gökhan-dalmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gökhan-dalmaz" height="30" width="40" /></a>
-</p>
+## 🛠️ Kullandığım Teknolojiler
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Kuika](https://img.shields.io/badge/-Kuika-blue?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdalmaz&show_icons=true&locale=en&layout=compact" alt="gdalmaz" /></p>
+## 📈 GitHub İstatistiklerim
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdalmaz&" alt="gdalmaz" /></p>
+![Gökhan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=githubkullaniciadın&show_icons=true&theme=github_dark)
 
+---
+
+## 📂 Proje Vitrini
+
+### 📌 Yapay Zeka ile Stok Analizi Sistemi
+> Küçük ve orta ölçekli işletmelerin stok performansını analiz eden, veri görselleştirme ve verim hesaplama özellikleri sunan sistem.
+
+### 📌 Kuika ile Geliştirilmiş Finans Takip Uygulaması
+> Low-code platform üzerinde kullanıcı dostu bir arayüzle çalışan, gelir-gider analizi yapabilen finansal uygulama.
+
+---
+
+## 💬 İlgi Alanlarım
+
+- 🧠 Yapay Zeka & Makine Öğrenmesi
+- 📊 Veri Analizi
+- 🌍 Web Geliştirme
+- 🧪 Yeni Teknolojileri Denemek
+
+---
+
+> Daha fazla proje ve detay için lütfen repolarıma göz at! 👇
