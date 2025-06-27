@@ -29,12 +29,17 @@ Ben bir **Yazılım Geliştiriciyim** ve özellikle web tabanlı uygulamalar, ve
 
 
 
-## 📈 GitHub İstatistiklerim
+## İstatistikler
 
-![Gökhan'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=githubkullaniciadın&show_icons=true&theme=github_dark)
+![Gökhan Dalmaz'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=gokhandalmaz&show_icons=true&theme=radical)
 
----
+![Gökhan Dalmaz'ın Dil İstatistikleri](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhandalmaz&layout=compact&theme=radical)
 
+### Proje Durumu
+
+![GitHub issues](https://img.shields.io/github/issues/gokhandalmaz/proje-adi)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/gokhandalmaz/proje-adi)
+![GitHub stars](https://img.shields.io/github/stars/gokhandalmaz/proje-adi?style=social)
 
 
 ## 💬 İlgi Alanlarım
