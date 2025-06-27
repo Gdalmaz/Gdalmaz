@@ -1,7 +1,7 @@
 
 
-
-![ChatGPT Image 27 Haz 2025 16_22_25](https://github.com/user-attachments/assets/f3837130-c4ac-4abd-8b88-e413cd9cee78)
+<img src="https://github.com/user-attachments/assets/f3837130-c4ac-4abd-8b88-e413cd9cee78" alt="ChatGPT Image" width="700"/>
+https://github.com/Gdalmaz/Gdalmaz/blob/main/README.md
 
 # 👋 Merhaba, ben Gökhan Dalmaz
 
