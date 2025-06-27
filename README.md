@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GokhanDalmaz/assets/main/software-banner.png" alt="Gökhan Dalmaz | Software Engineering" width="100%" />
+  <img src="https://chatgpt-image-storage.s3.eu-central-1.amazonaws.com/banner-gokhandalmaz.png" alt="Gökhan Dalmaz | Software Engineering" width="100%" />
 </p>
 
 # 👋 Merhaba, ben Gökhan Dalmaz
