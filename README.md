@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/abcd123.gif" alt="Software Engineering Banner" width="100%" />
-</p>
+
 
 
 # 👋 Merhaba, ben Gökhan Dalmaz
