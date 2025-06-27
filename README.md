@@ -1,6 +1,6 @@
 
-
 ![Uploading ChatGPT Image 27 Haz 2025 16_35_16.png…]()
+
 
 
 # 👋 Merhaba, ben Gökhan Dalmaz
