@@ -1,5 +1,6 @@
 
-![ChatGPT Image 27 Haz 2025 16_22_25](https://github.com/user-attachments/assets/79e6923a-e623-410d-966b-221c223b247e)
+
+![Uploading ChatGPT Image 27 Haz 2025 16_35_16.png…]()
 
 
 # 👋 Merhaba, ben Gökhan Dalmaz
