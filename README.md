@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FE3C4&center=true&width=435&lines=👨‍💻+Software+Engineering;Welcome+to+my+GitHub+Profile!;Passionate+about+clean+code+%26+design." alt="Typing SVG" />
+</p>
+
 # 👋 Merhaba, ben Gökhan Dalmaz
 
 Ben bir **Yazılım Geliştiriciyim** ve özellikle web tabanlı uygulamalar, veri analizi, yapay zeka destekli sistemler ve ödeme sistemleri üzerine çalışıyorum. 🧠💻
