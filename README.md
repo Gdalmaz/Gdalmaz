@@ -1,7 +1,6 @@
 
-<p align="center">
-  <img src="https://chatgpt-image-storage.s3.eu-central-1.amazonaws.com/banner-gokhandalmaz.png" alt="Gökhan Dalmaz | Software Engineering" width="100%" />
-</p>
+![ChatGPT Image 27 Haz 2025 16_22_25](https://github.com/user-attachments/assets/79e6923a-e623-410d-966b-221c223b247e)
+
 
 # 👋 Merhaba, ben Gökhan Dalmaz
 
