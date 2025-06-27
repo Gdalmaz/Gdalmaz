@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/user-attachments/assets/f3837130-c4ac-4abd-8b88-e413cd9cee78" alt="ChatGPT Image" width="%100"/>
+<img src="https://github.com/user-attachments/assets/f3837130-c4ac-4abd-8b88-e413cd9cee78" alt="ChatGPT Image" width="%100" height="%50"/>
 https://github.com/Gdalmaz/Gdalmaz/blob/main/README.md
 
 # 👋 Merhaba, ben Gökhan Dalmaz
