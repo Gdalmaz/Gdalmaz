@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6FE3C4&center=true&width=435&lines=👨‍💻+Software+Engineering;Welcome+to+my+GitHub+Profile!;Passionate+about+clean+code+%26+design." alt="Typing SVG" />
+  <img src="https://i.imgur.com/abcd123.gif" alt="Software Engineering Banner" width="100%" />
 </p>
 
 
